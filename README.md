@@ -13,3 +13,10 @@
 - Wrote notes for first hour of Lecture 0.
 - Adjusted study timing for better focus.
 - Stayed consistent despite mental fatigue.
+
+### Day 3
+- Completed detailed notes for Lecture 0 (Part 1) with diagrams and key concepts.
+- Revisited portions of lecture to reinforce understanding.
+- Improved note structure for clarity and long-term reference.
+- Maintained consistency despite limited available time.
+- Preparing for stronger focus tomorrow.
