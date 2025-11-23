@@ -20,3 +20,8 @@
 - Improved note structure for clarity and long-term reference.
 - Maintained consistency despite limited available time.
 - Preparing for stronger focus tomorrow.
+
+### Day 4
+- Explored deeper, system-level questions about how computers interpret data (binary signals, place values, transistor states, voltage logic).
+- Built strong internal understanding of character encoding systems (ASCII vs Unicode) and why binary is fundamentally used in hardware.
+- Strengthened foundational intuition by actively questioning how low-level representations translate into higher-level computing concepts.
