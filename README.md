@@ -25,3 +25,18 @@
 - Explored deeper, system-level questions about how computers interpret data (binary signals, place values, transistor states, voltage logic).
 - Built strong internal understanding of character encoding systems (ASCII vs Unicode) and why binary is fundamentally used in hardware.
 - Strengthened foundational intuition by actively questioning how low-level representations translate into higher-level computing concepts.
+### Day 5
+- Explored the RGB color model in depth and clarified how individual channels contribute to final pixel output.
+- Enhanced and reorganized Week 0 notes in notion to improve conceptual structure and long-term usability.
+- Demostrated consistensy by completing a focused study session and sustaining learning momentum.
+
+
+
+
+
+
+
+
+
+
+
