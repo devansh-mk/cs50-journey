@@ -58,7 +58,11 @@
 - Gained strong intuition for logical flow, debugging, and how computers interpret instructions.
 - Fully ready to begin CS50 Week 1 (C programming) with confidence.
 
-
+Day 21:
+- Completed CS50 Problem Set 0 (Scratch) and submitted successfully.
+- Started CS50 Week 1 (C) lecture and completed 2/3 of the whole lecture with clarity.
+- Covered topics including: C basics, compilation, functions, variables, input/output, strings, and formatted printing, etc.
+- Focused on understanding mental models rather than writing code during the lecture.
 
 
 
